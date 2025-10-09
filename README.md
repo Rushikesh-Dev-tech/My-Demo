@@ -1,4 +1,4 @@
 # My-Demo
 My First Project
 <br>
-Author : Rushikesh Karche
+Author : Rushikesh Karche (Web Tech)
